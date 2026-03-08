@@ -39,10 +39,20 @@ ul li a {
     color: white;
     text-decoration: none;
     transition: 0.3s;
+    /* transition: */
+        /* box-shadow 0.5s ease-in-out 1s, */
+        /* shadow fade-out delay 1s */
+        /* transform 0.5s ease-in-out 1s; */
+    
 }
 
 ul li a:hover {
     color: aqua;
+    /* box-shadow: 0 10px 25px rgba(0, 0, 0, 0.6); */
+    /* shadow on hover */
+    /* transform: scale(1.05); */
+    /* slight zoom */
+    /* transition-delay: 0s; */
 }
 
 .container {
@@ -79,6 +89,10 @@ ul li a:hover {
     width: 700px;
     text-align: center;
     border-radius: 1rem;
+    transition:
+        box-shadow 0.5s ease-in-out 1s,
+        /* shadow fade-out delay 1s */
+        transform 0.5s ease-in-out 1s;
 }
 
 .card h1 {
@@ -157,4 +171,26 @@ footer {
     flex-wrap: wrap;
     align-items: center;
     justify-content: center;
+}
+
+.card:hover {
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.6);
+    /* shadow on hover */
+    transform: scale(1.05);
+    /* slight zoom */
+    transition-delay: 0s;
+}
+.web{
+    transition:
+        box-shadow 0.5s ease-in-out 1s,
+        /* shadow fade-out delay 1s */
+        transform 0.5s ease-in-out 1s;
+}
+.web:hover{
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.6);
+    /* shadow on hover */
+    transform: scale(1.05);
+    /* slight zoom */
+    transition-delay: 0s;
+    color: aqua;
 }
