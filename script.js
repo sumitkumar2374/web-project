@@ -1,1 +1,1 @@
-alert("welcom to my 2nd project !")
+alert("welcom to my Web project!")
