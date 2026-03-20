@@ -31,8 +31,8 @@ project
 ## How to Run
 
 1. Clone the repository.
-2. Open the project folder
-3. Run the **index.html** file in your browser
+2. Open the project folder.
+3. Run the **index.html** file in your browser.
 
 ## Purpose
 
