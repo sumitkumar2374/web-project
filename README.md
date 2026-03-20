@@ -40,4 +40,4 @@ This project was created for practicing **front-end web development and responsi
 
 ## Author
 
-Created by **Sumit Kumar**
+Created by **Sumit Kumar** 
