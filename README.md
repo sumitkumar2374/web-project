@@ -6,12 +6,12 @@ This is a responsive web project built using **HTML, CSS, and JavaScript**. The 
 
 ## Features
 
-* Responsive design for mobile, tablet, and desktop
-* Clean and modern UI
-* Interactive elements using JavaScript
-* Multiple sections such as Home, About, Services, and Contact
-* Background images and visual design elements
-* Embedded multimedia like YouTube videos and Google Maps
+* Responsive design for mobile, tablet, and desktop.
+* Clean and modern UI.
+* Interactive elements using JavaScript.
+* Multiple sections such as Home, About, Services, and Contact.
+* Background images and visual design elements.
+* Embedded multimedia like YouTube videos and Google Maps.
 
 ## Technologies Used
 
@@ -30,7 +30,7 @@ project
 
 ## How to Run
 
-1. Clone the repository
+1. Clone the repository.
 2. Open the project folder
 3. Run the **index.html** file in your browser
 
