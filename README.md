@@ -21,7 +21,7 @@ This is a responsive web project built using **HTML, CSS, and JavaScript**. The 
 
 ## Project Structure
 
-project
+project:
 │
 ├── index.html
 ├── style.css
