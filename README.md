@@ -6,7 +6,7 @@ This is a responsive web project built using **HTML, CSS, and JavaScript**. The 
 
 ## Features
 
-* Responsive design for mobile, tablet, and desktop.
+* Responsive design for **mobile, tablet, and desktop**.
 * Clean and modern UI.
 * Interactive elements using **JavaScript**.
 * Multiple sections such as **Home, About, Services, and Contact**.
