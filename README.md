@@ -15,9 +15,9 @@ This is a responsive web project built using **HTML, CSS, and JavaScript**. The 
 
 ## Technologies Used
 
-* HTML5
-* CSS3
-* JavaScript
+* **HTML5**
+* **CSS3**
+* **JavaScript**
 
 ## Project Structure
 
