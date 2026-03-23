@@ -11,7 +11,7 @@ This is a responsive web project built using **HTML, CSS, and JavaScript**. The 
 * Interactive elements using **JavaScript**.
 * Multiple sections such as **Home, About, Services, and Contact**.
 * Background images and visual design elements.
-* Embedded multimedia like YouTube videos and Google Maps.
+* Embedded multimedia like **YouTube videos and Google Maps**.
 
 ## Technologies Used
 
