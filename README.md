@@ -8,7 +8,7 @@ This is a responsive web project built using **HTML, CSS, and JavaScript**. The 
 
 * Responsive design for mobile, tablet, and desktop.
 * Clean and modern UI.
-* Interactive elements using JavaScript.
+* Interactive elements using **JavaScript**.
 * Multiple sections such as **Home, About, Services, and Contact**.
 * Background images and visual design elements.
 * Embedded multimedia like YouTube videos and Google Maps.
